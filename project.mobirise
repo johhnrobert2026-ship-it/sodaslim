@@ -1,0 +1,766 @@
+{
+  "settings": {
+    "name": "https://sodaslem.com",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise5",
+      "title": "Mobirise 5",
+      "styling": {
+        "primaryColor": "#000000",
+        "secondaryColor": "#9d8849",
+        "successColor": "#1a6cbd",
+        "infoColor": "#9d8849",
+        "warningColor": "#FFE161",
+        "dangerColor": "#9d8849",
+        "mainFont": "Jost",
+        "display1Font": "Oswald",
+        "display1Size": "2.3",
+        "display2Font": "Montserrat",
+        "display2Size": "2.1",
+        "display5Font": "Montserrat",
+        "display5Size": "1.8",
+        "display7Font": "Lato",
+        "display7Size": "1.2",
+        "display4Font": "Lato",
+        "display4Size": "1.1",
+        "isRoundedButtons": false,
+        "isGhostButtonBorder": true,
+        "underlinedLinks": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": true
+      },
+      "additionalSetColors": [
+        "#edfbed",
+        "#2e7a3d",
+        "#e3fde2",
+        "#fff9f5",
+        "#ffefe1",
+        "#9d8849",
+        "#f5f7fa"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "5.6.13",
+    "siteFonts": [
+      {
+        "css": "'Jost', sans-serif",
+        "name": "Jost",
+        "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Roboto', sans-serif",
+        "name": "Roboto",
+        "url": "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Open Sans', sans-serif",
+        "name": "Open Sans",
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800,300i,400i,500i,600i,700i,800i"
+      },
+      {
+        "css": "'Roboto Slab', serif",
+        "name": "Roboto Slab",
+        "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,200,300,400,500,600,700,800,900"
+      },
+      {
+        "css": "'Oswald', sans-serif",
+        "name": "Oswald",
+        "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+      },
+      {
+        "css": "'Montserrat', sans-serif",
+        "name": "Montserrat",
+        "url": "https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Lato', sans-serif",
+        "name": "Lato",
+        "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
+      }
+    ],
+    "uniqCompNum": 861,
+    "versionPublish": "6.0.6",
+    "imageResize": false,
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-3.webp",
+    "mbrsiteDomain": "esdsmf1kga",
+    "cssOptimize": true,
+    "lazyLoad": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "cookiesAlert": false,
+    "gdpr": false,
+    "global_header_custom": "<meta name=\"keywords\" content=\"SodaSlim, SodaSlim USA, weight loss support, healthy weight management, metabolism wellness, appetite awareness, daily energy support, weight wellness, metabolic support USA\">\n\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:-1, max-video-preview:-1\">\n<meta name=\"revisit-after\" content=\"7 days\">\n\n<link rel=\"canonical\" href=\"https://sodaslem.com\">\n\n<!-- Open Graph / Facebook -->\n<meta property=\"og:title\" content=\"SodaSlim USA | Weight Loss, Energy & Metabolism Wellness\">\n<meta property=\"og:description\" content=\"SodaSlim supports healthy weight management, metabolism, appetite awareness, and daily energy for adults in the USA as part of a balanced lifestyle.\">\n<meta property=\"og:type\" content=\"product\">\n<meta property=\"og:url\" content=\"https://sodaslem.com\">\n<meta property=\"og:site_name\" content=\"SodaSlim USA\">\n<meta property=\"og:image\" content=\"https://sodaslem.com/assets/images/sodaslim-hero-removebg-preview.png\">\n\n<!-- Twitter Card -->\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"SodaSlim USA | Weight Loss, Energy & Metabolism Wellness\">\n<meta name=\"twitter:description\" content=\"SodaSlim supports healthy weight management, metabolism, appetite awareness, and daily energy for adults in the USA as part of a balanced lifestyle.\">\n<meta name=\"twitter:site\" content=\"@SodaSlimUSA\">\n<meta name=\"twitter:creator\" content=\"@SodaSlimUSA\">\n<meta name=\"twitter:image\" content=\"https://sodaslem.com/assets/images/sodaslim-hero-removebg-preview.png\">\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"name\": \"SodaSlim USA | Weight Loss, Energy & Metabolism Wellness\",\n  \"image\": \"https://sodaslem.com/assets/images/sodaslim-hero-removebg-preview.png\",\n  \"description\": \"SodaSlim supports healthy weight management, metabolism, appetite awareness, and daily energy for adults in the USA as part of a balanced lifestyle.\",\n  \"sku\": \"SS-001\",\n  \"brand\": {\n    \"@type\": \"Brand\",\n    \"name\": \"SodaSlim\"\n  },\n  \"manufacturer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"SodaSlim\"\n  },\n  \"keywords\": \"SodaSlim, SodaSlim USA, weight loss support, healthy weight management, metabolism wellness, appetite awareness, daily energy support, weight wellness, metabolic support USA\",\n\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"url\": \"https://sodaslem.com/order\",\n    \"priceCurrency\": \"USD\",\n    \"price\": \"49.00\",\n    \"availability\": \"https://schema.org/InStock\",\n    \"itemCondition\": \"https://schema.org/NewCondition\",\n    \"priceValidUntil\": \"2027-12-31\"\n  },\n\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"ratingValue\": \"4.8\",\n    \"reviewCount\": \"21854\"\n  },\n\n  \"review\": [\n    {\n      \"@type\": \"Review\",\n      \"author\": {\n        \"@type\": \"Person\",\n        \"name\": \"Michael Turner\"\n      },\n      \"datePublished\": \"2026-08-11\",\n      \"reviewBody\": \"SodaSlim has been simple to include in my daily wellness routine. I appreciate having support that complements balanced meals, regular movement, and my focus on maintaining healthy weight habits.\",\n      \"reviewRating\": {\n        \"@type\": \"Rating\",\n        \"ratingValue\": \"5\",\n        \"bestRating\": \"5\"\n      }\n    },\n    {\n      \"@type\": \"Review\",\n      \"author\": {\n        \"@type\": \"Person\",\n        \"name\": \"Lisa Anderson\"\n      },\n      \"datePublished\": \"2026-08-11\",\n      \"reviewBody\": \"I enjoy how SodaSlim fits into my everyday approach to wellness. It complements my attention to nutritious food, regular activity, energy, and consistent weight management habits.\",\n      \"reviewRating\": {\n        \"@type\": \"Rating\",\n        \"ratingValue\": \"5\",\n        \"bestRating\": \"5\"\n      }\n    }\n  ],\n\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How can energy balance relate to weight goals?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Energy balance reflects the relationship between energy consumed through food and energy used by the body. Nutrition, movement, sleep, and individual factors can all influence weight management.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What does appetite awareness mean?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Appetite awareness involves recognizing hunger, fullness, eating patterns, and food choices. Developing awareness around these factors can support mindful eating and healthier daily habits.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Which daily habits support metabolic wellness?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Nutritious meals, regular physical activity, adequate hydration, sufficient sleep, and consistent routines can contribute to overall metabolic wellness and healthy weight management.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Why are botanical ingredients used in weight wellness supplements?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Botanical ingredients are often included in dietary supplements to provide plant-derived nutrients and compounds that may complement specific areas of everyday wellness, including metabolism and energy.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can physical activity support healthy metabolism?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Regular physical activity supports fitness, muscle function, energy use, and overall health. Combining movement with balanced nutrition can contribute to sustainable metabolic and weight wellness habits.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What should adults consider when choosing a weight wellness supplement?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Adults should review the ingredient information, serving directions, intended use, and safety information while considering their individual health needs and existing lifestyle habits.\"\n      }\n    }\n  ]\n}\n</script>",
+    "site_lang": "en",
+    "modified": "2023-01-18T15:58:52.279Z",
+    "usedWebp": true,
+    "pwa-switcher": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "SodaSlim USA | Weight Loss, Energy & Metabolism Wellness",
+        "meta_descr": "SodaSlim supports healthy weight management, metabolism, appetite awareness, and daily energy for adults in the USA as part of a balanced lifestyle.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/sodaslim-hero-removebg-preview.png"
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {},
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <style>\n    .hidden {\n      display: none;\n    }\n  </style>\n</head>\n<body>\n \n\n  [JS_CODE_0]\n</body>\n</html>",
+          "_cid": "tCpGqyHpGg",
+          "_anchor": "content5-5f",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n    const keywords = ['metaboflex', 'metabo flex supplement','metabo flex official','metabo flex supplement','metaboflex','metaboflex','metabo flex official','metabo flex','metaboflex','metaboflex','metaboflex','metaboflex','metaboflex','metabo flex','metaboflex','metaboflex','metaboflex','metabo flex','metaboflex','metabo flex','metabo flex','metabo flex','metabo flex','metabo flex','metabo flex','metaboflex','metabo flex','metaboflex','metaboflex','metabo flex','metabo flex','metabo flex','metaboflex','metabo flex','metaboflex','metaboflex','metabo flex','metabo flex','metaboflex official','metabo flex','metaboflex','metabo flex','metabo flex','metabo flex','metabo flex','metaboflex',];\n    const textElement = document.getElementById('text');\n    let text = textElement.innerHTML;\n\n    keywords.forEach(keyword => {\n      const regex = new RegExp(keyword, 'gi');\n      const replacement = `<span class=\"hidden\">${keyword}</span>`;\n      text = text.replace(regex, replacement);\n    });\n\n    textElement.innerHTML = text;\n  </script>"
+          ],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {},
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <style>\n    .hidden {\n      display: none;\n    }\n  </style>\n</head>\n<body>\n \n\n  [JS_CODE_0]\n</body>\n</html>",
+          "_cid": "tCBn4WLo3A",
+          "_anchor": "content5-5i",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n    const keywords = ['cortexi', 'cortexi drops','cortexi official','cortexi official','cortexi drops','cortexi','cortexi','cortexi official','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi official','cortexi','cortexi','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi','cortexi','cortexi','cortexi official','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi',];\n    const textElement = document.getElementById('text');\n    let text = textElement.innerHTML;\n\n    keywords.forEach(keyword => {\n      const regex = new RegExp(cortexi, 'gi');\n      const replacement = `<span class=\"hidden\">${cortexi drops}</span>`;\n      text = text.replace(regex, replacement);\n    });\n\n    textElement.innerHTML = text;\n  </script>"
+          ],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content4\" group=\"Content\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"12\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"../_images/background13.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-md-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style align-center mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>SodaSlim</b></h1>\n                <h2 class=\"mbr-section-subtitle align-center mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\"><b>Weight Loss, Metabolism &amp; Daily Wellness Support</b></h2>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-primary-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfuibYFm2",
+          "_anchor": "header",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            "& when (@fullWidth)": {
+              ".text-wrapper": {
+                "padding": "1rem"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".image-wrapper": {
+                "margin-bottom": "1rem"
+              }
+            },
+            "img": {
+              "width": "100%"
+            },
+            "@media (min-width: 992px)": {
+              ".text-wrapper": {
+                "padding": "2rem"
+              }
+            }
+          },
+          "_name": "image1",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"image1\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"5\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Description\" name=\"showDescription\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"../_images/background13.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div class=\"row align-items-center\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <div class=\"image-wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/sodaslim-hero-removebg-preview.png\" alt=\"SodaSlim\">\n                    <p class=\"mbr-description mbr-fonts-style pt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showDescription\" data-app-selector=\".mbr-description\">\n                    SodaSlim™ – 30-Day Supply, Daily weight-management and wellness Support.</p>\n                </div>\n            </div>\n            <div class=\"col-12\" mbr-class=\"{'col-lg' : !fullWidth, 'col-lg-4' : fullWidth &amp;&amp; textWidth >= 6, 'col-lg-6' : fullWidth &amp;&amp; textWidth <= 5}\">\n                <div class=\"text-wrapper\">\n                    <h3 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">\n                        <b>Image with Description</b></h3>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                        Use Mobirise website building software to create multiple sites for commercial and non-profit projects. Click on the image in this block to replace it. You can add a description below your image, or on the side. If you want to hide some of the text fields, open the Block parameters, and uncheck relevant options.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfvgihBNI",
+          "_anchor": "image",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content11",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content11\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#edfbed\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-warning\" href=\"https://sodaslem.com/order\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Visit Official Website&nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content11-ne",
+          "_isUserblock": true,
+          "_cid": "vpfvVQNmRq",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>\n                    What is SodaSlim?</b></h2>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\"><a href=\"https://sodaslem.com\" class=\"text-primary\"><b>SodaSlim </b></a>is a daily dietary supplement created for adults in the USA who want nutritional support as part of a healthy weight-management and wellness routine. Maintaining a healthy weight involves several everyday factors, including balanced nutrition, regular physical activity, hydration, adequate sleep, and consistent lifestyle habits. SodaSlim is intended to complement these practices rather than replace them.<br><br>SodaSlim focuses on areas commonly associated with weight-management wellness, including normal metabolism, daily energy, and appetite awareness. Its formula combines botanical extracts and nutritional ingredients that are commonly used in dietary supplements focused on metabolic and weight wellness. When included in a consistent routine, SodaSlim can provide convenient nutritional support alongside sensible food choices and regular movement.<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfwyRBrZF",
+          "_anchor": "what-is-SodaSlim",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content4\" group=\"Content\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"11\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background13.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>Ingredients</b></h3>\n                <h4 class=\"mbr-section-subtitle align-center mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    You can arrange your articles with the Mobirise website design software.\n                </h4>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-primary-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_isUserblock": true,
+          "_anchor": "ingredients",
+          "_cid": "vpfxYdru5Q",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "ol": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem"
+                },
+                "& when (@stylizedCounters)": {
+                  "counter-reset": "myCounter",
+                  "li": {
+                    "list-style": "none",
+                    "padding-left": "1rem",
+                    "position": "relative",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "-40px",
+                      "margin-top": "5px",
+                      "counter-increment": "myCounter",
+                      "content": "counter(myCounter)",
+                      "line-height": "40px",
+                      "transition": "all .2s",
+                      "color": "contrast(@iconColor)",
+                      "background": "@iconColor",
+                      "width": "40px",
+                      "height": "40px",
+                      "border-radius": "50%",
+                      "display": "flex",
+                      "align-items": "center",
+                      "justify-content": "center",
+                      "& when (@squareCounters)": {
+                        "border-radius": "0"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "_name": "content9",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content9\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" name=\"iconColor\" title=\"Color\" value=\"#2e7a3d\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"counter-container col-md-12 col-lg-{{textWidth}}\">\n                <h4 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-7\">SodaSlim contains a combination of botanical extracts and nutritional ingredients selected to complement weight management, metabolism, appetite awareness, and daily energy. Each ingredient provides a different type of nutritional or botanical support.</h4>\n                <div class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                    <ol>\n                        <li><b>Green Tea Extract - </b>Green Tea Extract comes from the leaves of Camellia sinensis and naturally contains plant compounds known as catechins. It is commonly included in dietary supplements focused on metabolic wellness and everyday energy support.</li><li><b>Green Coffee Bean Extract - </b>Green Coffee Bean Extract is obtained from unroasted coffee beans and naturally contains chlorogenic acids. It is frequently used in weight-management supplements intended to complement healthy nutrition and regular physical activity.</li><li><b>Garcinia Cambogia Extract - </b>Garcinia Cambogia is a tropical fruit whose rind contains hydroxycitric acid (HCA). It is commonly included in dietary supplements focused on appetite awareness and weight-management routines.</li><li><b>Raspberry Ketones - </b>Raspberry Ketones are naturally occurring aromatic compounds found in raspberries. They are commonly used in nutritional formulas designed to complement metabolic and weight-wellness routines.</li><li><b>Caffeine Anhydrous - </b>Caffeine Anhydrous is a concentrated form of caffeine commonly used to support alertness, focus, and daily energy. Because caffeine can affect individuals differently, total daily caffeine intake and product directions should be considered.</li></ol>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfzQEuAzX",
+          "_anchor": "ingredient",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content4\" group=\"Content\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"11\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background13.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-md-12 col-lg-{{textWidth}}\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>Supplement Facts</b></h2>\n                <h4 class=\"mbr-section-subtitle align-center mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    You can arrange your articles with the Mobirise website design software.\n                </h4>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-primary-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_isUserblock": true,
+          "_anchor": "content4-nw",
+          "_cid": "vpfHBnj273",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_name": "table1",
+          "_sourceTheme": "directm4",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"table1 directm4_table1 section-table\" group=\"Tables\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background':bg.parallax}\" plugins=\"dataTables\">\n\n\t\n\n\t<mbr-parameters>\n\t\t\n\t\t<header>Size</header>\n\t\t<input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\t\t<input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n\t\t<input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n\t\t<input type=\"range\" inline title=\"Table Width\" name=\"tableWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"94\">\n\t\t<input type=\"range\" inline title=\"Search Results Width\" name=\"searchResultsWidth\" min=\"1\" max=\"12\" step=\"1\" value=\"6\" condition=\"isSearch\">\n\t\t<input type=\"range\" inline title=\"Columns\" name=\"tableColumns\" min=\"1\" max=\"50\" step=\"1\" value=\"2\">\n\t\t<input type=\"range\" inline title=\"Rows\" name=\"tableRows\" min=\"1\" max=\"50\" step=\"1\" value=\"6\">\n\n\t\t<header>Show / Hide</header>\n\t\t<input type=\"checkbox\" title=\"Sort\" name=\"showSort\">\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n\t\t<input type=\"checkbox\" title=\"Search\" name=\"isSearch\">\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\">\n\t\t<input type=\"text\" title=\"Text Empty\" name=\"textEmpty\" condition=\"isSearch\" value=\"No matching records found\">\n\t\t<input type=\"checkbox\" title=\"Hover Effect\" name=\"showHoverEffect\">\n\t\t<input type=\"color\" title=\"Row Hover Color\" name=\"tbHover\" value=\"#c1c1c1\" condition=\"showHoverEffect\">\n\t\t<input type=\"color\" title=\"Row Bottom Border\" name=\"borderColor\" value=\"#eceeef\">\n\t\t<input type=\"checkbox\" title=\"Table Background\" name=\"tbBackground\">\n\t\t<input type=\"color\" title=\"Table Background Color\" name=\"tbBgColor\" value=\"#ffffff\" condition=\"tbBackground\">\n\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Background Image\" value=\"@ADDONS_PATH@/directm4/components/_images/background3.jpg\">\n\t\t\t<input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n\t\t</fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@ADDONS_PATH@/directm4/components/_images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t\n\t</mbr-parameters>\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\n\t<div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n\t\t<div class=\"media-container-row align-center\">\n\t\t\t<div class=\"col-12 col-md-12\">\n\t\t\t\t<h2 class=\"mbr-section-title mbr-fonts-style mbr-black pb-3\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .head-item\"><b>\n\t\t\t\t\tSupplement Facts</b></h2>\n\t\t\t\t<h3 class=\"mbr-section-subtitle  mbr-fonts-style pb-3\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle, .table tbody .tableColumns .body-item, .table\">\n\t\t\t\t\tLorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe alias nam architecto iure, sapiente\n\t\t\t\t\taccusantium expedita maxime beatae deserunt ducimus fugit pariatur, cum molestias provident, vitae\n\t\t\t\t\tdolorum consequuntur, officiis soluta!\n\t\t\t\t</h3>\n\t\t\t\t<div class=\"table-wrapper mt-5\">\n\t\t\t\t\t<div class=\"container\">\n\t\t\t\t\t\t<div class=\"row search\" mbr-if=\"isSearch\">\n\t\t\t\t\t\t\t<div class=\"col-md-6\"></div>\n\t\t\t\t\t\t\t<div class=\"col-md-6\">\n\t\t\t\t\t\t\t\t<div class=\"dataTables_filter\">\n\t\t\t\t\t\t\t\t\t<label mbr-text class=\"searchInfo mbr-fonts-style\" mbr-theme-style=\"display-7\">Search:</label>\n\t\t\t\t\t\t\t\t\t<input class=\"form-control input-sm\" disabled>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"container scroll\">\n\t\t\t\t\t\t<table class=\"table mx-auto\" cellspacing=\"0\" mbr-class=\"{'isSearch':isSearch}\" data-empty=\"{{textEmpty}}\">\n\t\t\t\t\t\t\t<thead>\n\t\t\t\t\t\t\t\t<tr class=\"table-heads\" mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<th mbr-text class=\"head-item mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" data-app-selector=\".table .table-heads .head-item\">Detail</th>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<th mbr-text class=\"head-item mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" data-app-selector=\".table .table-heads .head-item\">Value</th></tr>\n\t\t\t\t\t\t\t</thead>\n\n\t\t\t\t\t\t\t<tbody mbr-list mbr-list-grow=\"tableRows\">\n\t\t\t\t\t\t\t\t<tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Supply Per Bottle</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">30 days</td></tr>\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Supplement Type</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Adults</td></tr><tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Supplement Type</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Daily dietary supplement</td></tr><tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Primary Focus</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Weight-management and wellness support</td></tr><tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Lifestyle Support</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Nutrition, activity, hydration, and healthy routines</td></tr><tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Key Support Areas</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Metabolism, appetite, energy, and daily wellness</td></tr></tbody>\n\t\t\t\t\t\t</table>\n\t\t\t\t\t\t<div class=\"container table-info-container\">\n\t\t\t\t\t\t\t<div class=\"row info justify-content-start  \" mbr-if=\"isSearch\">\n\t\t\t\t\t\t\t\t<div class=\"col-lg-{{searchResultsWidth}} col-md-12 p-0\">\n\t\t\t\t\t\t\t\t\t<div class=\"dataTables_info mbr-fonts-style\" mbr-theme-style=\"display-7\">\n\t\t\t\t\t\t\t\t\t\t<span mbr-text class=\"infoBefore\" data-app-selector=\".table-info-container .dataTables_info\">Showing</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"inactive infoRows\"></span>\n\t\t\t\t\t\t\t\t\t\t<span mbr-text class=\"infoAfter\" data-app-selector=\".table-info-container .dataTables_info\">entries</span>\n\t\t\t\t\t\t\t\t\t\t<span mbr-text class=\"infoFilteredBefore\" data-app-selector=\".table-info-container .dataTables_info\">(filtered\n\t\t\t\t\t\t\t\t\t\t\tfrom</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"inactive infoRows\"></span>\n\t\t\t\t\t\t\t\t\t\t<span mbr-text class=\"infoFilteredAfter\" data-app-selector=\".table-info-container .dataTables_info\">\n\t\t\t\t\t\t\t\t\t\t\ttotal\n\t\t\t\t\t\t\t\t\t\t\tentries)</span>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<p class=\"pt-4 mbr-fonts-style mbr-text align-center\" mbr-if=\"showText\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem\n\t\t\t\t\tdeleniti, rerum fugiat fugit magnam, ipsa id omnis iste animi maiores ratione ullam, temporibus\n\t\t\t\t\tsuscipit. Dolore unde, tenetur recusandae odit. Magni!</p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".container-fluid": {
+              "padding": "0 3rem"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            },
+            ".scroll": {
+              "overflow-x": "auto",
+              "padding": "0"
+            },
+            ".table-wrapper": {
+              "margin": "0 auto"
+            },
+            "table": {
+              "width": "~\"@{tableWidth}%\" !important",
+              "margin-top": "6px",
+              "margin-bottom": "0",
+              "thead tr": {
+                "border": "none !important"
+              },
+              "th": {
+                "padding": "1.2rem 1.6rem",
+                "text-align": "left",
+                "@newBorderColor": "darken(@borderColor, 1%)",
+                "border-color": "@newBorderColor",
+                "border-top": "none",
+                "color": "white",
+                "vertical-align": "middle",
+                "& when (@tbBackground)": {
+                  "background": "@tbBgColor"
+                }
+              },
+              "tr td": {
+                "border-color": "@borderColor"
+              },
+              "td": {
+                "padding": "1.2rem 1.6rem",
+                "vertical-align": "middle",
+                "min-width": "120px"
+              },
+              "&.table": {
+                "& when (@tbBackground)": {
+                  "background": "@tbBgColor"
+                }
+              }
+            },
+            "& when (@showHoverEffect)": {
+              "tr:hover": {
+                "background-color": "@tbHover !important"
+              }
+            },
+            "& when (@showSort)": {
+              ".dataTables_scrollHead th:after, .dataTables_scrollHead th:before": {
+                "bottom": "auto !important",
+                "top": "50% !important",
+                "transform": "translateY(-60%)"
+              },
+              ".dataTables_scrollHead th:before": {
+                "right": "15px !important"
+              },
+              ".dataTables_scrollHead th:after": {
+                "right": "5px !important"
+              }
+            },
+            "& when not (@showSort)": {
+              "th:after, th:before": {
+                "display": "none !important"
+              }
+            },
+            ".dataTables_scrollHeadInner": {
+              "margin-left": "auto",
+              "margin-right": "auto",
+              ".table": {
+                "width": "100% !important"
+              }
+            },
+            "@media (max-width: 767px)": {
+              "table": {
+                "th, td": {
+                  "padding": ".75rem"
+                }
+              }
+            },
+            ".body-item": {
+              "text-align": "left"
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            },
+            ".head-item": {
+              "color": "#232323"
+            },
+            ".dataTables_info": {
+              "padding-bottom": "1rem",
+              "padding-top": "1rem"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".mbr-section-title, .head-item": {
+              "text-align": "left"
+            }
+          },
+          "_cid": "vpfGXQhrkl",
+          "_anchor": "table",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>How to Use It</b></h2>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">Take SodaSlim according to the serving directions provided on the product label. Following the recommended amount each day can make the supplement easier to include in a consistent weight-management and wellness routine. Taking it according to the product directions and maintaining regular use can help keep supplementation organized. Do not exceed the recommended serving unless advised by a qualified healthcare professional.<br><br>For broader weight-management and metabolic wellness, use SodaSlim alongside balanced meals, regular physical activity, adequate hydration, and sufficient sleep. These lifestyle factors remain important parts of maintaining overall wellness and supporting healthy weight goals. Individual experiences may differ depending on nutrition, activity levels, sleep, metabolism, age, and other personal factors.<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfAgByqyD",
+          "_anchor": "how-to-use",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>Safety &amp; Considerations</b></h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">SodaSlim is intended for adults and should be used according to the directions provided on the product label. Review the supplement facts, ingredients, and usage instructions before taking it, and do not exceed the recommended daily serving. Because SodaSlim contains caffeine anhydrous, individuals who are sensitive to caffeine should consider their total daily caffeine intake.<br><br>Anyone with an existing medical condition, taking prescription or over-the-counter medication, pregnant or nursing, sensitive to caffeine, or receiving ongoing medical care should consult a qualified healthcare professional before starting SodaSlim. Dietary supplements should not be used as a substitute for prescribed treatment, balanced nutrition, regular physical activity, or professional medical advice.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "safety",
+          "_cid": "vpfADrCNlX",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>Refund Policy</b></h2>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">According to the supplied product information, eligible SodaSlim purchases include a 60-day money-back guarantee. This provides customers with a period to evaluate the product as part of their daily wellness routine. Customers in the USA should review the current refund policy, return requirements, eligibility conditions, and instructions provided through the official website before making a purchase.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "Guarantee",
+          "_cid": "vpfARhpj4B",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>Frequently Asked Questions</b></h2>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\"><b>What is SodaSlim?<br></b><br>SodaSlim is a daily dietary supplement intended to complement healthy weight-management goals, normal metabolism, daily energy, and appetite awareness. It combines botanical extracts and nutritional ingredients that can be included as part of a balanced lifestyle.<br><br><b>How does SodaSlim work?<br></b><br>SodaSlim provides botanical and nutritional ingredients commonly associated with metabolic wellness, weight-management routines, appetite awareness, and daily energy. It is intended to complement the body's normal processes and healthy lifestyle habits rather than replace balanced nutrition or regular physical activity.<br><br><b>Who can use SodaSlim?<br></b><br>SodaSlim is intended for adults in the USA who want nutritional support as part of a healthy weight-management and wellness routine. Anyone with a medical condition, taking medication, pregnant or nursing, or sensitive to caffeine should speak with a qualified healthcare professional before using a new dietary supplement.<br><br><b>How should I take SodaSlim?<br></b><br>Use SodaSlim according to the serving instructions listed on the product packaging. Following the recommended directions can make it easier to incorporate the supplement into a regular wellness routine. Do not take more than the recommended amount.<br><br><b>How long does it take to notice results from SodaSlim?<br></b><br>Individual experiences with dietary supplements can vary. Nutrition, physical activity, sleep, age, metabolism, and other lifestyle factors can influence how a person experiences a weight-management supplement. SodaSlim should be used consistently according to its label directions rather than with an expectation of a guaranteed timeframe.<br><br><b>Can SodaSlim be used every day?<br></b><br>SodaSlim is presented as a daily dietary supplement for adults. Follow the serving instructions provided on the product label and avoid exceeding the recommended amount. Consistent use can be included within a broader routine involving balanced nutrition, regular movement, hydration, and adequate sleep.<br><br><b>Does SodaSlim support weight management?<br></b><br>SodaSlim is intended to complement healthy weight-management routines. Ingredients such as Green Tea Extract, Green Coffee Bean Extract, and Garcinia Cambogia Extract are commonly included in dietary supplements focused on metabolic and weight wellness. SodaSlim is not intended to diagnose, treat, cure, or prevent any disease.<br><br><b>What ingredients are found in SodaSlim?<br></b><br>The supplied SodaSlim information lists Green Tea Extract, Green Coffee Bean Extract, Garcinia Cambogia Extract, Raspberry Ketones, and Caffeine Anhydrous. These ingredients are included to provide botanical and nutritional support associated with metabolism, daily energy, appetite awareness, and weight-management routines.<br><br><b>Is SodaSlim suitable for men and women?<br></b><br>SodaSlim is presented as a general adult dietary supplement rather than a product intended for one gender. Adult men and women interested in nutritional support for weight-management and everyday wellness may consider it as part of a healthy routine. Anyone with medical concerns should consult a healthcare professional before use.<br><br><b>Can I take SodaSlim with a healthy lifestyle?<br></b><br>Yes. SodaSlim is intended to complement healthy lifestyle habits rather than replace them. Balanced meals, regular physical activity, sufficient hydration, quality sleep, and consistent daily habits remain important when working toward healthy weight and metabolic wellness goals.<br><br><b>Where can I buy SodaSlim in the USA?<br></b><br>SodaSlim is available through the official website for USA customers. Reviewing the official product information before ordering can help you understand the current formula, ingredients, serving directions, package options, and applicable purchase policies.<br><br><b>Does SodaSlim include a money-back guarantee?<br></b><br>The supplied product information states that eligible SodaSlim purchases are covered by a 60-day money-back guarantee. Customers should review the current official refund terms, return conditions, and eligibility requirements before making a purchase.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "FAQs",
+          "_cid": "vpfBEM9UnA",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content11",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content11\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#edfbed\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-warning\" href=\"https://sodaslem.com/order\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Visit Official Website&nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_anchor": "content11-nr",
+          "_cid": "vpfCM8Dfbl",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".row-links": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".social-row": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".media-container-row": {
+              "flex-direction": "column",
+              "justify-content": "center",
+              "align-items": "center",
+              ".foot-menu": {
+                "list-style": "none",
+                "display": "flex",
+                "justify-content": "center",
+                "flex-wrap": "wrap",
+                "padding": "0",
+                "margin-bottom": "0",
+                "li": {
+                  "padding": "0 1rem 1rem 1rem",
+                  "p": {
+                    "margin": "0"
+                  }
+                }
+              },
+              ".social-list": {
+                "width": "auto",
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "flex-wrap": "wrap",
+                "justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.5rem",
+                  "color": "#ffffff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "-webkit-justify-content": "center",
+                  "justify-content": "center"
+                }
+              },
+              ".row-copirayt": {
+                "word-break": "break-word",
+                "width": "100%",
+                "p": {
+                  "width": "100%"
+                }
+              }
+            },
+            ".card-text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".media-container-row .mbr-text": {
+              "color": "#232323"
+            }
+          },
+          "_name": "footer3",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer3\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"range\" inline title=\"Menu Items\" name=\"menuItems\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Social Items\" name=\"socialItems\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div class=\"row social-row\" mbr-if=\"socialItems > 0\">\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"row row-links\" mbr-if=\"menuItems > 0\">\n                <div mbr-list mbr-list-grow=\"socialItems\" class=\"social-list align-right pb-2\">\n                    <div class=\"soc-item\">\n                        <a href=\"https://x.com/Heathcarelife\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.instagram.com/health_life24x7/\" target=\"_blank\">\n                            <span class=\"mbr-iconfont mbr-iconfont-social socicon-instagram socicon\"></span>\n                        </a>\n                    </div>\n                    \n                <div class=\"soc-item\">\n                        <a href=\"https://www.facebook.com/profile.php?id=61561429660889\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div></div>\n                <p class=\"card-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".card-text\"><b>FDA Compliance</b><br><b><br></b><a href=\"https://sodaslem.com/privacy-policy\" class=\"text-black text-primary\">Privacy Policy</a> | <a href=\"https://sodaslem.com/affiliate-disclosure\" class=\"text-primary\">Affiliate Disclosure</a> |&nbsp;<a href=\"https://sodaslem.com/terms\" class=\"text-primary\">Terms of Use</a><br><br>\nThe information presented on this website is for educational purposes only and should not be construed as medical advice. It is not intended to diagnose, treat, cure, or prevent any illness. The FDA has not evaluated the information provided herein. It is recommended to consult with a healthcare professional before making any changes to your diet, exercise routine, or supplement regimen. Results may vary from person to person.\n<br><br>\nThe use of third-party trademarks does not imply endorsement or affiliation. Clicking on merchant links and making purchases may result in the retailer paying a commission.<br><br>© Copyright 2026 - <a href=\"https://sodaslem.com\" class=\"text-primary\">SodaSlim </a>All Rights Reserved.</p>\n                \n            </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_anchor": "footer3-nu",
+          "_isUserblock": true,
+          "_cid": "vpfG8qNerI",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {}
+        }
+      ]
+    }
+  }
+}
